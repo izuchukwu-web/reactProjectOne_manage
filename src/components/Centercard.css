@@ -1,0 +1,48 @@
+
+.Centercard{
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+    margin-left: -163px;
+    gap: 70px;
+}
+.btnCentercard{
+    margin-top: 30px;
+}
+.btnCentercard>div{
+gap: 30px;
+display: flex;
+}
+.badgeBtn {
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    padding: auto 70px;
+    margin-top: 20px;
+    border: none;
+    color: white;
+    background-color: hsl(12, 88%, 59%);
+}
+.Centercard>div>h2{
+    font-family: "Poppins", serif;
+    font-weight: 610;
+    font-size: 40px;
+    width: 600px;
+  color: hsl(233, 12%, 13%);
+}
+.Centercard>div>p{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: 280px;
+}
+.btnCentercard>div>div>h3{
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 20px;
+  color: hsl(233, 12%, 13%);
+}
+.btnCentercard>div>div>p{
+    font-size: 16px;
+    width: 370px;
+}

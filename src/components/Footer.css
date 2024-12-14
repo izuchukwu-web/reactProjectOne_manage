@@ -1,0 +1,114 @@
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color:hsl(233, 12%, 13%);
+    color: white;
+    padding: 50px;
+}
+.footer>div>a:hover{
+    cursor: pointer;
+    color:hsl(12, 88%, 59%) ;
+}
+.footerLogo:hover{
+cursor: pointer;
+}
+.Socilmedialogo{
+display: flex;
+justify-content: space-around;
+    margin-top: 50px;
+}
+.Socilmedialogo>div>a>img:hover{
+    cursor: pointer;
+    color:hsl(12, 88%, 59%) ;
+    fill:hsl(12, 88%, 59%) ;
+}
+.footerhomeprice{
+    display: grid;
+}
+.footerhomeprice >a{
+    text-decoration: none;
+    color: white;
+}
+.Careersthem{
+    display: grid;
+}
+.Careersthem>a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+.Careersthem>a :hover{
+    cursor: pointer;
+    color: chocolate;
+}
+#placeholder{
+    border-radius: 20px;
+    padding: 9px;
+}
+#placeholder::placeholder {
+    color: hsl(12, 88%, 59%);
+}
+#placeholder:hover{
+    cursor: pointer;
+}
+.Btnfooter{
+    border-radius: 40px;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    border-style: none;
+    padding: px;
+    width: 70px;
+    height: 40px;
+}
+.Btnfooter:hover{
+cursor: pointer;
+background-color: pink ;
+}
+.placeholder-Btn{
+    display: flex;
+    gap: 10px;
+}
+.placeholder-Btn>span>input{
+  color: hsl(12, 88%, 59%);  
+}
+.validmail{
+color: brown;
+font-style: italic;
+font-size: 16px;
+}
+.facebook{
+    fill: #fff;
+}
+.facebook :hover{
+    cursor: pointer;
+    fill:  hsl(12, 88%, 59%);
+}
+.youtube{
+    fill: #fff;
+}
+.youtube :hover{
+    cursor: pointer;
+    fill:  hsl(12, 88%, 59%);
+}
+.twitter{
+    fill: #fff;
+}
+.twitter :hover{
+    cursor: pointer;
+    fill:  hsl(12, 88%, 59%);
+}
+.pinterest{
+    fill: #fff;
+}
+.pinterest :hover{
+    cursor: pointer;
+    fill:  hsl(12, 88%, 59%);
+}
+.instagram{
+    fill: #fff;
+}
+.instagram :hover{
+    cursor: pointer;
+    fill:  hsl(12, 88%, 59%);
+}

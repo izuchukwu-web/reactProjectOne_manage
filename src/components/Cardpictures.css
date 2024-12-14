@@ -1,0 +1,98 @@
+
+.TheirView{
+    /* margin-left: 600px;
+    margin-bottom: -180px;  */
+    margin-top: 250px;
+    font-family: "Poppins", serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+  color: hsl(233, 12%, 13%); 
+}
+.Cardpictures{
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    position: relative;
+}
+.Cardpictures>div>h4{
+    position: absolute;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 20px;
+  color: hsl(233, 12%, 13%);
+}
+.Cardpictures>div>p{
+    padding: 80px;
+    margin-top: 100px;
+}
+.Anishaimg{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: -80px;
+}
+.AnishaP>h4{
+   
+    margin-left: 170px;
+    margin-top: 100px;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 20px;
+  color: hsl(233, 12%, 13%);
+}
+.AnishaP>p{
+    width: 386px;
+    text-align:center ;
+    font-size: 16px;
+    margin: 0 20px;
+}
+.AliBravoimg{
+    position: absolute;
+    margin-left: 215px;
+    margin-top: -80px;
+}
+.AliBravoP>h4{
+    margin-left: 240px;
+    margin-top: 100px;
+}
+.AliBravoP>p{
+    width: 400px;
+    text-align:center ;
+}
+.RichardP>h4{
+    margin-left: 170px;
+    margin-top: 100px;
+}
+.Richardimg{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: -80px;
+}
+.RichardP>p{
+    width: 385px;
+    text-align:center ;
+    font-size: 16px;
+    margin-left: -40px;
+}
+.Cardpictures>div{
+background-color: hsl(0, 0%, 98%);
+margin: 10px;
+}
+.btnCardpicture{
+    border-radius: 50px;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+    border-style: none;
+    padding: 10px;
+    margin: 20px auto;
+    width: fit-content;
+    display: block;
+}
+.btnCardpicture:hover{
+cursor: pointer;
+background-color: pink ;
+}
+
+.AnishaText{
+    text-align: center;
+}

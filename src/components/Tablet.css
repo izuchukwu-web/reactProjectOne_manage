@@ -1,0 +1,13 @@
+.capsuleTop{
+    margin-left: 60%;
+    /* margin-top: -100px; */
+    position: absolute;
+    z-index: -2;
+    
+}
+.capsuleLeft{
+    margin-left: -500px;
+    margin-top: 1230px;
+    position: absolute;
+    z-index: -2;
+}
