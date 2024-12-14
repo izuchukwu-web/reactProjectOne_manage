@@ -11,7 +11,7 @@
 }
 .Cardpictures{
     display: flex;
-    margin-top: 150px;
+    margin-top: 80px;
     justify-content: center;
     position: relative;
 }

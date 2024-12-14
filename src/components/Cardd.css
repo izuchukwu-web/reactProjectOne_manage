@@ -4,9 +4,16 @@
 .cardd{
     display: flex;
     justify-content: center;
-    margin-top: 50px;
-    margin-left: 100px;
+    margin-top: 300px;
+    margin-right: 230px;
     gap: 300px;
+}
+.cardd>img{
+    margin-right: -220px;
+}
+.BringEveryone{
+    font-size: 500px;
+    width: 500px;
 }
 .GetstartedBtn{
     border-radius: 50px;
